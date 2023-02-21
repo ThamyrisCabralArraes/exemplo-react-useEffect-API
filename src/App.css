@@ -49,3 +49,16 @@
 .fave {
   background-color: rgba(128, 255, 0, 0.416);
 }
+
+li {
+  list-style: none;
+}
+
+.App {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul {
+  height: 100vh;
+}
